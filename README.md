@@ -115,4 +115,4 @@ The model achieves a high accuracy on the test dataset. The classification model
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 🧑‍💻 Author
-Dinesh Babu - Initial work - GitHub
+Harsith - Initial work - GitHub
